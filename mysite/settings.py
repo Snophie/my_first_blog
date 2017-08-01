@@ -25,7 +25,7 @@ SECRET_KEY = '+qaw%1uu7ec_!9!q#toqhk3t99*azo^!d_$hz60r*z05h6j60v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'Snophie.pythonanywhere.com']
 
 
 # Application definition
